@@ -1,2 +1,2 @@
-# react-node-crud-template
-Created with CodeSandbox
+# react-proxy-example
+This is an example project on how to proxy to backend servers in React Applications
